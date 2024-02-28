@@ -14,12 +14,12 @@ let ageInString = String(age)
 //console.log(typeof ageInString)
 
 let code = null
-console.log(typeof code)
+//console.log(typeof code)
 
 let codeInNumber = Number(code)
 
-console.log(typeof codeInNumber)
-console.log(codeInNumber)
+//console.log(typeof codeInNumber)
+//console.log(codeInNumber)
 
 
 
@@ -29,4 +29,17 @@ let id = null
 let uid = undefined
 //console.log(typeof uid)
 
+let num = true
+//console.log(typeof num)
 
+let numInNumber = Number(num)
+//console.log(typeof numInNumber)
+
+ //console.log(numInNumber)
+
+ let cv = false
+ console.log(typeof cv)
+
+ let cvInNumber = Number(cv)
+ console.log(typeof cvInNumber)
+ console.log(cvInNumber)
